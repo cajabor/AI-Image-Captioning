@@ -1,4 +1,4 @@
-## Things to install before running any captioners
+## Packages to install before running any captioners
 
 pip3 install virtualenv 
 virtualenv my_env # create a virtual environment my_env
